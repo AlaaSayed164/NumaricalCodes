@@ -1,5 +1,5 @@
-# NumaricalCodes
-Numaical optimization 
+# Numerical Codes
+Numerical  optimization 
 
 
 [1.implement the gradient descent for linear regressionwith one variable 
