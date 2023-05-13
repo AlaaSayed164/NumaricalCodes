@@ -8,6 +8,7 @@ We compare the results in every iteration by changing the hyperparameters in eac
 There can be only one global minima and maxima but there can be more than one local minima and maxima.
 ### GRADIENT DESCENT
 Gradient Descent is an optimization algorithm and it finds out the local minima of a differentiable function. It is a minimization algorithm that minimizes a given function.
+ first-order optimization algorithm as it explicitly makes use of the first-order derivative of the target objective function.
 ////////////////////////////////////////////////////////
 #### Is the process of iteratively improving the accuracy of a machine learning model, lowering the degree of error. <B> . A major goal of training a machine learning algorithm is to minimise the degree of error between the predicted output and the true output. 
 Machine learning models learn to generalise and make predictions about new live data based on insight learned from training data. This works by approximating the underlying function or relationship between input and output data. 
@@ -16,6 +17,8 @@ Optimisation is measured through a loss or cost function, which is typically a w
 ///////////////////////////////////////////////////////
 Momentum is widely used in the machine learning community for optimizing non-convex functions such as deep neural networks.[6] Empirically, momentum methods outperform traditional stochastic gradient descent approaches.
 n deep learning, SGD is widely prevalent and is the underlying basis for many optimizers such as Adam, Adadelta, RMSProp, etc. which already utilize momentum to reduce computation speed.[9] The momentum extension for optimization algorithms is available in many popular machine learning frameworks such as PyTorch, tensor flow, and scikit-learn. 
+  
+ 
   Momentum is an extension to the gradient descent optimization algorithm that builds inertia in a search direction to overcome local minima and oscillation of noisy gradients.[1] It is based on the same concept of momentum in physics.
   ////////////////////////////////////////////////////
 
