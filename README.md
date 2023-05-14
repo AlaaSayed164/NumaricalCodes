@@ -59,6 +59,7 @@ n deep learning, SGD is widely prevalent and is the underlying basis for many op
 resorces :
 https://towardsdatascience.com/understanding-optimization-algorithms-in-machine-learning-edfdb4df766b#:~:text=Optimization%20is%20the%20process%20where,Learning%20to%20get%20better%20results.
 https://www.analyticsvidhya.com/blog/2021/03/variants-of-gradient-descent-algorithm/
+https://towardsdatascience.com/stochastic-batch-and-mini-batch-gradient-descent-demystified-8b28978f7f5#:~:text=Advantages%20of%20Mini%2DBatch%20Gradient%20Descent&text=Faster%20Learning%3A%20As%20we%20perform,a%20much%20faster%20learning%20process.
 
 
 Numerical  optimization 
